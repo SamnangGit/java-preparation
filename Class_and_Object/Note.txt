@@ -1,0 +1,27 @@
+OOP (Object Oriented Programing) a programming paradigm that everything is based on class and object
+= Reduce Code Complexity
+= Maintainable
+= Reusable 
+
+4 Pillars of OOP
+* Encapsulation
+* Inheritance
+* Polymprphism
+* Abstraction
+
+Class is a blueprint to create Object+
+Class consist data member and Method
+
+Object is an instence of a Class
+Objects are independent 
+Object is a reference type
+
+= value type and reference type (String, Array, Object)
+
+Student student = new Student();
+
+There are two types storage in memory
+Heap : Non-premitive data type
+Stack : premitive data type
+
+Garbage collector will automatically clean up non use object 
